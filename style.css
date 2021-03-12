@@ -17,4 +17,12 @@ img {
     border-radius: 50%;
     width: 100px;
 }
-ul {}
+
+.article:hover {
+    background-color: darkgoldenrod;
+    color: #FFFF;
+}
+
+html {
+    scroll-behavior: smooth;
+}
